@@ -30,7 +30,7 @@ module.exports = {
   Thursday: Thursday,
   Friday: Friday,
   Saturday: Saturday,
-  Sunday: Sanday,
+  Sunday: Sunday,
   getMoment: getMoment,
   getWeekOfMonth: getWeekOfMonth,
 };
